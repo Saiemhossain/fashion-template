@@ -71,7 +71,7 @@ i{
   align-items: center;
   height: 650px;
   text-align: center;
-  background-image: url('/img/banner.jpg');
+  background-image: url('../img/banner.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
